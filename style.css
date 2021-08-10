@@ -1,0 +1,35 @@
+body{
+ text-align:center; 
+    background-color: black;
+        display:flx;
+}
+#heading1{
+  color:darkgreen;
+}
+
+
+#image1{
+  
+    width:400;  
+}
+
+#image2{
+  
+    width:400; 
+}
+
+#image3{
+  
+    width:400; 
+
+}
+#image4{
+  
+    width:400; 
+}
+.image-section{
+    display:flex;
+    justify-content:center 
+}
+
+
